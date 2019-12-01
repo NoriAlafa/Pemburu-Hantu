@@ -1,2 +1,4 @@
-# Pemburu-Hantu
-Beta
+# Pemburu-Hantu BETA
+Karakter masih terdiri dari:
+pocong
+kuntilanak
